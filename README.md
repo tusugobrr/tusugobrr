@@ -1,5 +1,7 @@
 $\color{red}{\text{Your red text here}}$
 
+$$\color{#00FF00}{\text{Centered hex color text}}$$
+
 <div align="center">  
   
 ponytowns [naparizel](https://github.com/title-town)
