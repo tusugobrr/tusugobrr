@@ -1,7 +1,10 @@
-<div align="center">  
+
+<div align="center">
+
+<a href="https://hits.sh/github.com/tusugobrr/"><img alt="Hits" src="https://hits.sh/github.com/tusugobrr.svg?style=plastic&label=(%CB%B5%E2%97%9D%20%E2%A9%8A%20%20%E2%97%9C%CB%B5%E3%83%9E&color=26204b&labelColor=341a4c"/></a>
 
 # <img width="150" height="20" alt="tumblr_3e7380548918081a1bbe69c1ec3b17e6_f39d75ad_250" src="https://github.com/user-attachments/assets/960397ae-8d9c-4e2e-8a49-f0bca1280380" />
-  
+
 ponytowns [naparizel](https://github.com/title-town) 
 
 <img width="100" height="60" alt="tumblr_20503b4a5829c83d46ed5cb869a394ec_56f3eb0f_100" src="https://github.com/user-attachments/assets/f5768aed-79ec-44e1-95f1-76606951037e" />
