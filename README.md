@@ -14,6 +14,9 @@ ponytowns [naparizel](https://github.com/title-town)
 
 
 [ATABOOK](https://dimofyyy.atabook.org) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [STRAWPAGE](https://naparrizel.straw.page/)
+
+I am a very sensitive person! I tend to get irritated easily and WILL hold grudges if you do something I find disrespectful, etc. Please Interact With Caution!
+
 </div> 
 
 $$\color{#55439c}{\text{Please do not cover me or my friends!}}$$
